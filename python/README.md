@@ -1,3 +1,3 @@
 # Projetos Python
 
-Este diretório possui meus projetos que desenvolvi para estudo em Python.
+Este diretório possui anotações e projetos de estudos que desenvolvi em Python.
